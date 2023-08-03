@@ -46,3 +46,9 @@ input{
     background-color: #DD4A48;
     padding: 12px;
 }
+
+@media all and (max-width: 500px){
+     h3{
+        font-size: 15px;
+     }
+}
